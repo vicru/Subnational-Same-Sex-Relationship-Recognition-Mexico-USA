@@ -1,0 +1,6 @@
+beer_cruz aceves_17nov17.do (application/x-stata-syntax) 2419 bytes.
+beer_cruz aceves_17nov17_README.txt (text/plain) 889 bytes.
+Codebook_17nov17.pdf (application/pdf) 151997 bytes.
+dataapp_17Nov17.pdf (application/pdf) 346140 bytes.
+MX.dta (application/x-stata-13) 51598 bytes.
+US.dta (application/x-stata-13) 71597 bytes.
