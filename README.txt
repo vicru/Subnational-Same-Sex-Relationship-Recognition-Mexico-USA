@@ -1,7 +1,7 @@
 These files include data and estimation code for:
 
-Beer, Caroline and Cruz Aceves, Victor (forthcoming). ìExtending Rights to Marginalized  Minorities:  Same-Sex 
-Relationship Recognition in Mexico and the United States.î State Politics and Policy Quarterly
+Beer, Caroline and Cruz Aceves, Victor (forthcoming). ‚ÄúExtending Rights to Marginalized  Minorities:  Same-Sex 
+Relationship Recognition in Mexico and the United States.‚Äù State Politics and Policy Quarterly
 
 INCLUDED:
 
